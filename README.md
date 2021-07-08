@@ -37,28 +37,16 @@ Sprint 3
 
 3. Project git Repositories 
 	Note : MAke sure your github is made with your name.
-	1. link : https://github.com/wahidKhan74/ems-spring.git
-	2. clone git : git clone https://github.com/wahidKhan74/ems-spring.git
-	3. scren shot : optional
-
-->4. How to run poject:
+	1. link : https://github.com/arpan-karki/lockedmecredentialstore
+	2. clone git : https://github.com/arpan-karki/lockedmecredentialstore
+	
+4. How to run poject:
 	
 	4.1. clone project
-		clone git : git clone https://github.com/wahidKhan74/ems-spring.git
-	4.2. open sr->com->simplilearn->lockme-> main.java
+		clone git : git clone https://github.com/arpan-karki/lockedmecredentialstore
+	4.2. open 
+		lockedmecredentialstore>src>main>java>com.arpankarki.lockedmecredentialstore.Application
 		-> right click  -> run as java application
-
--> Directory Structure / pacakge
-	
--> Source code files
-
-	main.java
-	-----
-
-
-	--------
-	credential.txt
-	----
 
 
 
